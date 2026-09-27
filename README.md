@@ -7,6 +7,7 @@ Computer & Software Engineering student by day, building **AI-powered systems an
 - 🧩 I enjoy building things that save time, remove friction and actually get used
 - 🚀 Currently building projects that combine **engineering + AI**
 
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
