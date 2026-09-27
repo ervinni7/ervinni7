@@ -7,8 +7,6 @@ Computer & Software Engineering student by day, building **AI-powered systems an
 - 🧩 I enjoy building things that save time, remove friction and actually get used
 - 🚀 Currently building projects that combine **engineering + AI**
 
-<br>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -16,10 +14,10 @@ Computer & Software Engineering student by day, building **AI-powered systems an
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ervinni7/ervinni7/output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/ervinni7/ervinni7/output/pacman-contribution-graph-light.svg"
   >
   <img
     alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/ervinni7/ervinni7/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/ervinni7/ervinni7/output/pacman-contribution-graph-light.svg"
   >
 </picture>
