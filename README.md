@@ -13,7 +13,7 @@ Computer & Software Engineering student by day, building **AI-powered systems an
     srcset="https://raw.githubusercontent.com/ervinni7/ervinni7/output/pacman-contribution-graph-dark.svg"
   >
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ervinni7/ervinni7/output/pacman-contribution-graph-light.svg"
   >
   <img
