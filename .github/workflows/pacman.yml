@@ -16,9 +16,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Increase Node memory
-        run: echo "NODE_OPTIONS=--max-old-space-size=8192" >> $GITHUB_ENV
-
       - name: Generate Pacman graph
         uses: DuyetBKU/viz-pacman-github-profile@main
         with:
